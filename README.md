@@ -1,5 +1,23 @@
 # 💫 About Me:
-🎓 I’m a third-year CSE (Data Science) student at G. H. Raisoni College of Engineering and Management, Pune, with a minor in Artificial Intelligence.<br>🚀 I’m actively looking for opportunities in Data Analytics and Machine Learning to build real-world problem-solving experience.<br><br>🔭 I’m currently working on:<br><br>Strengthening my skills in data analysis, visualization, and predictive modeling<br><br>Building projects that apply ML concepts to practical use-cases<br><br>🤝 I’m looking to collaborate on:<br><br>Data analytics projects, ML models, dashboards, and research-based datasets<br><br>🌱 I’m currently learning:<br><br>Statistical analysis, feature engineering, and model evaluation<br><br>Tools such as Python, Pandas, NumPy, Matplotlib / Power BI (add more if relevant)<br><br>💡 Ask me about:<br><br>Data preprocessing, exploratory data analysis, basic ML workflows, and project ideas<br><br>🎯 Career Goal:<br><br>To work as a Data Analyst / Machine Learning Engineer and contribute to data-driven decision-making<br><br>⚡ Fun fact:<br><br>I enjoy exploring real-world problems and turning data into insights.
+🎓 CSE (Data Science) @ GHRCEM Pune | Minor in AI
+
+I build things with data.
+
+🔭 Currently working on:
+- VivaAI — NLP-powered viva examination system that adapts question difficulty based on student performance
+- Agricultural Price Prediction — Random Forest model trained on 13,000+ Maharashtra APMC records with seasonal analysis
+
+⚡ What I bring:
+- End-to-end ML pipelines: data cleaning → feature engineering → model training → evaluation
+- Discovered and fixed model overfitting using 5-fold cross-validation and hyperparameter tuning
+- Built REST APIs in Flask with MySQL, password hashing, session management
+
+💻 Stack:
+Python | Pandas | NumPy | Scikit-learn | Matplotlib | Seaborn | Flask | MySQL | Power BI | Git
+
+🎯 Looking for: Data Analyst / ML Engineer internship (2026)
+📍 Pune, Maharashtra
+🔗 LinkedIn: in/amogh-pawar
 
 
 ## 🌐 Socials:
