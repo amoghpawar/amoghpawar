@@ -17,7 +17,7 @@ Python | Pandas | NumPy | Scikit-learn | Matplotlib | Seaborn | Flask | MySQL | 
 
 🎯 Looking for: Data Analyst / ML Engineer internship (2026)
 📍 Pune, Maharashtra
-🔗 LinkedIn: in/amogh-pawar
+
 
 
 ## 🌐 Socials:
